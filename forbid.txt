@@ -1,0 +1,6 @@
+# Extended regexes (grep -E). Any match in the built docs fails the build.
+# Commands NECD OS disables, and the private personal setup.
+devmode
+rebase-helper
+ujust changelogs
+kevcops

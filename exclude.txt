@@ -1,0 +1,23 @@
+# Upstream paths to delete before building (one per line, relative to the aurora-docs checkout).
+# Missing paths are ignored. Add a line when a new upstream page doesn't apply to NECD OS.
+docs/dx
+docs/project-docs
+docs/reference
+docs/guides/alternate-install-guide.md
+docs/guides/aurora-cli.md
+docs/guides/building.md
+docs/guides/dino.md
+docs/guides/example.md
+docs/guides/gaming.md
+docs/guides/iso-testing.md
+docs/guides/kde-themes.md
+docs/guides/local-ai.md
+docs/guides/sunshine.md
+blog
+i18n
+src/pages
+docs/guides/basic-usage.md
+docs/guides/release-streams.md
+docs/guides/software.md
+docs/guides/installation-troubleshoot.md
+docs/guides/system-requirements.md

@@ -1,0 +1,6 @@
+# Extended regexes (grep -E). A line mentioning "aurora" is allowed to remain if it matches any of these.
+ghcr\.io/ublue-os/aurora
+getaurora\.dev
+dev\.getaurora
+aurora-dx
+Based on the Aurora documentation
